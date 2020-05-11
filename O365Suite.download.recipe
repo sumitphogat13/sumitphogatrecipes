@@ -18,8 +18,6 @@
          <string>OfficeSuite</string>
          <key>PRODUCTID</key>
          <string>525133</string>
-         <key>version</key>
-         <string>latest</string>
          <key>DOWNLOADURL</key>
          <string>https://go.microsoft.com/fwlink/?linkid=%PRODUCTID%</string>
       </dict>
