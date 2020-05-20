@@ -102,7 +102,7 @@
 					<key>options</key>
 					<string>purge_ds_store</string>
 					<key>pkgname</key>
-					<string>%VENDOR%_%SOFTWARETITLE%_%version%.pkg</string>
+					<string>%VENDOR%_%SOFTWARETITLE%_%version%</string>
 					<key>version</key>
 					<string>%version%</string>
 				</dict>
